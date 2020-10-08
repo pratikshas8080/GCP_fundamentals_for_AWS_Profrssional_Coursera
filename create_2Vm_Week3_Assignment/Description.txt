@@ -1,0 +1,1 @@
+Created virtual machines (VMs) and connect to them. I was also created connections between the instances. Created virtual machine (VM) instances in two different zones and connected to them using ping, ssh, and HTTP.
