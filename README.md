@@ -1,6 +1,7 @@
 Google Cloud Fundamentals: Getting Started with Compute Engine
 
 Week-3
+
 Task 1: Sign in to the Google Cloud Platform (GCP) Console
 
 Task 2: Create a virtual machine using the GCP Console
