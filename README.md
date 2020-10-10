@@ -35,7 +35,7 @@ Task 3: Start a Kubernetes Engine cluster
 Task 4: Run and deploy a container
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-reate a deployment using Deployment Manager and use it to maintain a consistent state of your deployment. You will also view resource usage in a VM instance using Cloud Monitoring.
+Create a deployment using Deployment Manager and use it to maintain a consistent state of your deployment. You will also view resource usage in a VM instance using Cloud Monitoring.
 
 Week-7
 
