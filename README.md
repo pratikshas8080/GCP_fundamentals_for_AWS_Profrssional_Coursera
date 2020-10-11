@@ -48,3 +48,16 @@ Task 3: Create a Deployment Manager deployment
 Task 4: Update a Deployment Manager deployment
 
 Task 5: View the Load on a VM using Cloud Monitoring
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Create Dataset
+
+Week 8
+
+Task 1: Sign in to the Google Cloud Platform (GCP) Console
+
+Task 2: Load data from Cloud Storage into BigQuery
+
+Task 3: Perform a query on the data using the BigQuery web UI
+
+Task 4: Perform a query on the data using the bq command
