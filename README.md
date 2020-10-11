@@ -50,7 +50,7 @@ Task 4: Update a Deployment Manager deployment
 Task 5: View the Load on a VM using Cloud Monitoring
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Create Dataset
+Create Dataset and also used BigQuery 
 
 Week 8
 
