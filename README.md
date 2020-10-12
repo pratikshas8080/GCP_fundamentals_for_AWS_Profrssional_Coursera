@@ -61,3 +61,5 @@ Task 2: Load data from Cloud Storage into BigQuery
 Task 3: Perform a query on the data using the BigQuery web UI
 
 Task 4: Perform a query on the data using the bq command
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
