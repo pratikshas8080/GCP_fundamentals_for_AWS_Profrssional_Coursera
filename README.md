@@ -1,6 +1,6 @@
 Google Cloud Fundamentals: Getting Started with Compute Engine
 
-Week2
+Week-2
 
 Task 1: Sign in to the Google Cloud Platform (GCP) Console
 
@@ -52,7 +52,7 @@ Task 5: View the Load on a VM using Cloud Monitoring
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Create Dataset and also used BigQuery 
 
-Week 8
+Week-8
 
 Task 1: Sign in to the Google Cloud Platform (GCP) Console
 
